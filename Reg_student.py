@@ -8,4 +8,4 @@ try:
     Student.create(student_name=Student_name, student_ID=Student_ID, student_class=Student_class)
     print("Student Created Successfully")
 except:
-    print("Failed to create a User,Retry")
+    print("Failed to create a Student,Retry")
